@@ -1,6 +1,6 @@
 #!/usr/bin/evn python
 #-*-coding:utf-8-*-
-def vreak_words(stuff):
+def break_words(stuff):
 	"""this function will break up word for us."""
 	words=stuff.split(" ")
 	return words
